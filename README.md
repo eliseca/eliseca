@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @eliseiscute
+- 👋 Hi, I’m Elise
 - 🤖 I specialize in Discord bots!
+- 🤖 Developer Compliance @ Discord
 
 <!---
 eliseiscute/eliseiscute is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
