@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Elise
-- 🤖 I specialize in Discord bots!
 - 🤖 Developer Compliance @ Discord
 
 <!---
