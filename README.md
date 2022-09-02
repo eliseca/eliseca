@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elise</h1>
+<h1 align="center">Hi, I'm Elise! ️‍🌈🕊️🦋🍓</h1>
 <h3 align="center">discord bots discord bots discord bots</h3>
 
 <h3 align="left">Languages and Tools:</h3>
