@@ -12,7 +12,7 @@
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=discord,bots,github,python,javascript,nodejs,figma,bash,git,ai" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,html,mongodb,ps,powershell,unity,vscode,visualstudio,css" />
 
