@@ -4,17 +4,17 @@
   </a>
 </h1>
 
-<h3 align="center">discord bots discord bots discord bots</h3>
+<h3 align="center">bots @ Discord</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eliseiscute&label=Profile%20views&color=000000&style=flat" alt="eliseiscute" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eliseiscute&label=Profile%20views&color=000000&style=flat" alt="eliseca" /> </p>
 
 <hr>
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=discord,bots,github,python,javascript,nodejs,figma,bash,git,ai" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,html,mongodb,ps,powershell,unity,vscode,visualstudio,css" />
+    <img src="https://skillicons.dev/icons?i=discord,bots,github,python,javascript,nodejs,figma,git,ai" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,html,ps,powershell,unity,vscode,visualstudio" />
 
   </a>
 </p>
