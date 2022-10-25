@@ -13,8 +13,8 @@
 <br>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=discord,bots,github,python,javascript,nodejs,figma,git,ai" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,html,ps,powershell,unity,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=discord,bots,github,python,javascript,nodejs,mysql,sqlite,git" /><br>
+    <img src="https://skillicons.dev/icons?i=html,ps,powershell,unity,vscode,visualstudio,figma,ai" />
 
   </a>
 </p>
