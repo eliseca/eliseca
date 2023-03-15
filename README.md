@@ -14,7 +14,7 @@
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,git,html,css,mysql,sqlite,md,discord,bots" /><br>
-    <img src="https://skillicons.dev/icons?i=powershell,vscode,visualstudio,mongodb,ts,regex,unity,figma,ps,ai" />
+    <img src="https://skillicons.dev/icons?i=powershell,github,vscode,visualstudio,mongodb,ts,regex,unity,figma,ps,ai" />
 
   </a>
 </p>
